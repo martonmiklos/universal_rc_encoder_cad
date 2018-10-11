@@ -153,12 +153,6 @@ You can found the most recent version
 &lt;a href=http://balubati.extra.hu/eagleparts.html&gt;here&lt;/a&gt;.</description>
 <packages>
 <package name="DIL16_MINIMAL_PADS_FOR_NE5044">
-<wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
-<wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
-<wire x1="10.16" y1="2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
-<wire x1="-10.16" y1="2.921" x2="-10.16" y2="1.016" width="0.1524" layer="21"/>
-<wire x1="-10.16" y1="-2.921" x2="-10.16" y2="-1.016" width="0.1524" layer="21"/>
-<wire x1="-10.16" y1="1.016" x2="-10.16" y2="-1.016" width="0.1524" layer="21" curve="-180"/>
 <pad name="1" x="-8.89" y="-3.81" drill="0.8128" shape="octagon" rot="R90"/>
 <pad name="2" x="-6.35" y="-3.81" drill="0.8128" shape="octagon" rot="R90"/>
 <pad name="8" x="8.89" y="-3.81" drill="0.8128" shape="octagon" rot="R90"/>
